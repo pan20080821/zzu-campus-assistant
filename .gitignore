@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# 密钥：绝不入库
+.streamlit/secrets.toml
+
+# 爬虫原始网页（体积大、含未清洗内容，脚本会重新抓）
+knowledge/
+
+# 系统
+.DS_Store
+Thumbs.db
