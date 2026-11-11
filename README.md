@@ -1,0 +1,1 @@
+# zzu-campus-assistant
